@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Cannonball.cs
+ * Assignment 3
+ * This script just makes a cannonball go upwards on screen.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

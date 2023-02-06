@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Target.cs
+ * Assignment 3
+ * This script updates on-screen UI for damage dealt.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

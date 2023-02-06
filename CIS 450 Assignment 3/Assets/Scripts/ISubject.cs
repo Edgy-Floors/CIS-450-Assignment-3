@@ -2,7 +2,7 @@
  * EJ Flores
  * ISubject.cs
  * Assignment 3
- * 
+ * This script is the interface for a Subject.
  */
 using System;
 using System.Collections;

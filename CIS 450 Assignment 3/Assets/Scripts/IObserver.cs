@@ -2,7 +2,7 @@
  * EJ Flores
  * IObserver.cs
  * Assignment 3
- * 
+ * This script is the interface for an Observer.
  */
 
 using System.Collections;

@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * CannonController.cs
+ * Assignment 3
+ * This script has functionality for pressing spacebar to fire a cannonball.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

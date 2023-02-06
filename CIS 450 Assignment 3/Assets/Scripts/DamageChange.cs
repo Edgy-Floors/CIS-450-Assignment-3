@@ -1,8 +1,8 @@
 /*
  * EJ Flores
- * HealthChange.cs
+ * DamageChange.cs
  * Assignment 3
- * This script is the observer for an event, updating on-screen text for how much health the target has.
+ * This script is the observer for an event, updating the cannonball's damage.
  */
 
 using System.Collections;

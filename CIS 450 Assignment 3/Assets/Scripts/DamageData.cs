@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * DamageData.cs
+ * Assignment 3
+ * This script is the implmentation of the subject, holding the damage data to be sent to the observers.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
